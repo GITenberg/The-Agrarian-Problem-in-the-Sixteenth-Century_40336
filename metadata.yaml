@@ -1,0 +1,32 @@
+_repo: The-Agrarian-Problem-in-the-Sixteenth-Century_40336
+_version: 0.1.0
+alternative_title: The Agrarian Problem in the 16th Century
+covers:
+- cover_type: archival
+  image_path: 40336-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tawney, R. H. (Richard Henry)
+    alias: Tawney, Richard Henry
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '40560'
+    url: http://www.gutenberg.org/2009/agents/40560
+    wikipedia: http://en.wikipedia.org/wiki/R._H._Tawney
+description: ''
+gutenberg_issued: '2012-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'England -- Social conditions -- 16th century'
+- !lcsh 'Peasants -- England -- History -- 16th century'
+- !lcsh 'Land tenure -- Great Britain -- History -- 16th century'
+- !lcsh 'Agriculture -- England -- History -- 16th century'
+title: The Agrarian Problem in the Sixteenth Century
+url: http://www.gutenberg.org/ebooks/40336
